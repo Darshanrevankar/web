@@ -1,0 +1,13 @@
+.top-rated-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.logo img {
+    width: 250px;
+    margin: 20px;
+    object-fit: contain;
+}
+
